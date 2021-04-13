@@ -1,6 +1,6 @@
 {
   "name": "fastify-hasura",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A fastify plugin to have fun with Hasura.",
   "main": "plugin.js",
   "type": "module",
