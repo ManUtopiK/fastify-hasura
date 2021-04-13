@@ -13,7 +13,6 @@
   },
   "keywords": [
     "hasura",
-    "graphql",
     "fastify",
     "fastify-plugin",
     "graphql"
@@ -29,7 +28,8 @@
   },
   "dependencies": {
     "fastify-plugin": "^3.0.0",
-    "graphql-request": "^3.4.0"
+    "graphql-request": "^3.4.0",
+    "@result/hasura-parser": "^1.0.1"
   },
   "devDependencies": {
     "tap": "^14.11.0"
