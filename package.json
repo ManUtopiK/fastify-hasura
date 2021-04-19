@@ -27,9 +27,11 @@
     "node": ">=10"
   },
   "dependencies": {
+    "@result/hasura-parser": "^1.0.1",
     "fastify-plugin": "^3.0.0",
-    "graphql-request": "^3.4.0",
-    "@result/hasura-parser": "^1.0.1"
+    "fastify-sensible": "^3.1.1",
+    "graphql": "^15.5.0",
+    "graphql-request": "^3.4.0"
   },
   "devDependencies": {
     "tap": "^14.11.0"
