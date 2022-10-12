@@ -1,6 +1,6 @@
 {
   "name": "fastify-hasura",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A fastify plugin to have fun with Hasura.",
   "main": "plugin.js",
   "type": "module",
@@ -27,7 +27,7 @@
     "node": ">=10"
   },
   "dependencies": {
-    "@result/hasura-parser": "^1.0.1",
+    "@snotra/hasura-parser": "^1.0.2",
     "fastify-plugin": "^3.0.0",
     "fastify-sensible": "^3.1.1",
     "graphql": "^15.5.0",
