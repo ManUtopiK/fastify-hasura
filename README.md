@@ -69,7 +69,7 @@ fastify.hasura.registerAction('login', async (request, reply) => {
 })
 ```
 
-_**Note:** Requests for events and actions are decorated with [hasura-parser](https://github.com/resultdoo/hasura-parser). So, you can easily retrieve data in routes with `request.event` and `request.action`._
+_**Note:** Requests for events and actions are decorated with [hasura-parser](https://github.com/snotra-org/hasura-parser). So, you can easily retrieve data in routes with `request.event` and `request.action`._
 
 ### Options
 
@@ -93,7 +93,7 @@ fastify.register(require('fastify-hasura'), {
 
 - [Hasura GraphQL Engine Documentation](https://hasura.io/docs/latest/graphql/core/index.html)
 - [graphql-request](https://www.npmjs.com/package/graphql-request)
-- [hasura-parser](https://github.com/resultdoo/hasura-parser)
+- [hasura-parser](https://github.com/snotra-org/hasura-parser)
 
 ## Contributions
 

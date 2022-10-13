@@ -1,4 +1,4 @@
-import { EventParser, ActionParser } from '@result/hasura-parser'
+import { EventParser, ActionParser } from '@snotra/hasura-parser'
 
 async function hasuraRoutes(fastify, options) {
   /**
