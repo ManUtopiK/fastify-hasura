@@ -256,10 +256,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@snotra/hasura-parser@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@snotra/hasura-parser/-/hasura-parser-1.0.2.tgz#a5e038e0b8d630cd1e085dbfd03fb4c622106ffa"
-  integrity sha512-ZeNmV/O27FsON4cjh/pUWhN8sTw+DVQ5rCPnOQ8sycKo07yFxgCoUSi9yZKloKM+SSWHe4IjMT7Ivft4DbnyCQ==
+"@snotra/hasura-parser@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@snotra/hasura-parser/-/hasura-parser-1.0.3.tgz#b7735c1f64150f024fb6b38e9087dfbb1c79f0d7"
+  integrity sha512-bFve3KTZ55s3GwuIdpaYGkaA4+DxnI10eiDy+TS0LUuiC5FLhAwMjHA30XV+IEvndiGNp+Md5us3Eq08LHgSHg==
 
 "@types/prop-types@*":
   version "15.7.3"
