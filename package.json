@@ -27,7 +27,7 @@
     "node": ">=10"
   },
   "dependencies": {
-    "@snotra/hasura-parser": "^1.0.2",
+    "@snotra/hasura-parser": "^1.0.3",
     "fastify-plugin": "^3.0.0",
     "fastify-sensible": "^3.1.1",
     "graphql": "^15.5.0",
